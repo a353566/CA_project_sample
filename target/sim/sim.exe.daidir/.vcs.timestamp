@@ -1,0 +1,87 @@
+0 
+26
++itf+/usr/local/eda_tools/vcs/cur/amd64/lib/vcsd.tab
++libext+.v+
++v2k
++vcsd
++vpi
+-Mamsrun=
+-Masflags=
+-Mcc=gcc
+-Mcfl= -pipe -O -I/usr/local/eda_tools/vcs/cur/include
+-Mcplusplus=g++
+-Mcrt0=
+-Mcrtn=
+-Mcsrc=
+-Mldflags=
+-Mobjects= /usr/local/eda_tools/vcs/cur/amd64/lib/libvirsim.so /usr/local/eda_tools/vcs/cur/amd64/lib/liberrorinf.so /usr/local/eda_tools/vcs/cur/amd64/lib/libsnpsmalloc.so
+-Mout=sim.exe
+-Msaverestoreobj=/usr/local/eda_tools/vcs/cur/amd64/lib/vcs_save_restore_new.o
+-Msyslibs=-ldl -lm
+-Mvcsaceobjs=
+-full64
+-gen_obj
+-o sim.exe
+/home/M0529002/vlsi_flow/target/rtl/YOUR_MODULE.v
+/home/M0529002/vlsi_flow/target/rtl/target.v
+/usr/local/eda_tools/vcs/cur/amd64/bin/vcs1
+tb.v
+46
+sysc_uni_pwd=/home/M0529002/vlsi_flow/target/sim
+XDG_SESSION_ID=1525
+XDG_RUNTIME_DIR=/run/user/1006
+XAUTHORITY=/home/M0529002/.xauthUu3s96
+VMR_MODE_FLAG=64
+VCS_MODE_FLAG=64
+VCS_HOME=/usr/local/eda_tools/vcs/cur
+VCS_DEPTH=0
+VCS_ARG_ADDED_FOR_TMP=1
+VCS_ARCH=amd64
+UNAME=/bin/uname
+TSMC_40_LIB=/usr/local/cell_lib/CBDK_TSMC40_Arm_v0.5
+TSMC40_SIM_DIR=/usr/local/cell_lib/CBDK_TSMC40_Arm_v0.5/CIC/Verilog
+TSMC40_CELL_DB=/usr/local/cell_lib/CBDK_TSMC40_Arm_v0.5/CIC/SynopsysDC/db
+TOOL_HOME=/usr/local/eda_tools/vcs/cur/amd64
+SYNOTHESIS=/usr/local/eda_tools/synthesis/cur
+SYNOPSYS=/usr/local/eda_tools/synthesis/cur
+SSH_TTY=/dev/pts/5
+SSH_CONNECTION=163.25.101.32 57640 163.25.101.85 22
+SSH_CLIENT=163.25.101.32 57640 22
+SSH_ASKPASS=/usr/libexec/openssh/gnome-ssh-askpass
+SELINUX_USE_CURRENT_RANGE=
+SELINUX_ROLE_REQUESTED=
+SELINUX_LEVEL_REQUESTED=
+SCRNAME=vcs
+SCRIPT_NAME=vcs
+SAED32_LIB=/usr/local/cell_lib/SAED32_EDK
+QT_GRAPHICSSYSTEM_CHECKED=1
+QTLIB=/usr/lib64/qt-3.3/lib
+QTINC=/usr/lib64/qt-3.3/include
+QTDIR=/usr/lib64/qt-3.3
+PRIMETIME=/usr/local/eda_tools/primetime/cur
+OVA_UUM=0
+MFLAGS=
+MAKELEVEL=1
+MAKEFLAGS=
+LESSOPEN=||/usr/bin/lesspipe.sh %s
+KDE_IS_PRELINKED=1
+KDEDIRS=/usr
+HOSTNAME=localhost.localdomain
+HISTCONTROL=ignoredups
+HERCULES_HOME=/usr/local/eda_tools/hercules/cur
+EDA_ROOT=/usr/local/eda_tools
+CVS_RSH=ssh
+CELL_LIB_ROOT=/usr/local/cell_lib
+CCACHE_HASHDIR=
+0
+4
+1529590915 /home/M0529002/vlsi_flow/target/rtl/YOUR_MODULE.v
+1529590892 /home/M0529002/vlsi_flow/target/rtl/target.v
+1529591176 tb.v
+1338174289 /usr/local/eda_tools/vcs/cur/amd64/lib/vcsd.tab
+4
+0 
+1338176444 /usr/local/eda_tools/vcs/cur/amd64/lib/libvirsim.so
+1338176129 /usr/local/eda_tools/vcs/cur/amd64/lib/liberrorinf.so
+1338175989 /usr/local/eda_tools/vcs/cur/amd64/lib/libsnpsmalloc.so
+1529591934 sim.exe.daidir
